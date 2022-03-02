@@ -1,5 +1,5 @@
 package Java;
-
+//
 public class a {
 	public static void main(String[] args) {
 		b x=new b();
